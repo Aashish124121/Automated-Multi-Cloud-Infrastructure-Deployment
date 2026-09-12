@@ -5,7 +5,7 @@
 ---
 
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet?logo=terraform)](https://www.terraform.io/)  
-[![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=github-actions)](https://github.com/AbdulrahmanAlpha/terraform-multicloud/actions)  
+[![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=github-actions)]  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)](#)  
 
@@ -141,10 +141,3 @@ Or via GitHub Actions (preferred):
 * Cloud provider interoperability
 
 ---
-
-## 🧑‍💻 Author
-
-**Abdulrahman A. Muhamad**
-DevOps · Cloud · SRE Enthusiast
-
-🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahmanalpha) | [GitHub](https://github.com/AbdulrahmanAlpha) | [Portfolio](https://abdulrahman-alpha.web.app)
